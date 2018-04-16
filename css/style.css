@@ -1,0 +1,130 @@
+
+.nav a {
+  color:#fff;
+  display: block;
+  transition: .3s background-color;
+ text-decoration: none;
+}
+
+.nav a:hover {
+  background-color:red;
+}
+
+
+.body
+{
+	color: black;
+}
+
+h1 {
+
+	font-family: bebas neue;
+	font-size:100px;
+	align-content:center;
+	margin:100px;
+	padding: 50px
+
+
+}
+
+header {
+
+	align-content:center;
+	color: red;
+}
+
+
+.wrapper {
+
+width: 1200px;
+
+	}
+
+nav {
+		width: 100%;
+    border:#ffdad5;
+    padding: 10px;
+    margin: 5px;
+    align-content: center;
+    font-family: montserrat;
+    font-size: 20px;
+    background-color:black;
+    color:#fff;
+    text-decoration: none;
+
+}
+
+.nav li {
+    display: inline-block;
+     margin: 10px;
+    text-decoration: none;
+    align-content: center;
+    position: center;
+}
+
+.nav ul {
+  list-style: inline;
+  
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-family: montserrat;
+  text-decoration: none;
+}
+
+img {
+
+	float:left;
+	margin: 20px;
+}
+
+
+p{
+
+	font-family:montserrat;
+	margin: 20px;
+	padding: 10px;
+	text-align: justify;
+}
+
+h2{
+
+	font-family: montserrat;
+	margin: 35px;
+	padding: 10px;
+}
+
+.article1
+
+{
+	float: left;
+	margin: 20px;
+}
+
+.image
+
+{
+	float: right;
+}
+
+.article4
+
+{
+
+	margin: 100px
+}
+
+
+.paragraph
+
+{
+	float: left;
+}
+
+.article2
+
+{
+	margin: 100px;
+	flex-wrap: left;
+	
+}
